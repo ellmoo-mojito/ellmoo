@@ -1,4 +1,4 @@
-﻿body {background-color:#f1f1f1;}
+ body {background-color:#f1f1f1;}
 #dte_recent-post {
   margin:0 0;
   padding:0 0;
@@ -7,7 +7,7 @@
   color:#666;
   margin:0 auto;
   min-height:100px;
-  background:white url('http://reader-download.googlecode.com/svn/trunk/images/nivo-loading.gif') no-repeat 50% 50%;
+  background:white url('/nivo-loading.gif') no-repeat 50% 50%;
   border:4px solid #FB8F3D;
 }
 
