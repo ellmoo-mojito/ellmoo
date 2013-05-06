@@ -7,7 +7,7 @@
   color:#666;
   margin:0 auto;
   min-height:100px;
-  background:white url('/nivo-loading.gif') no-repeat 50% 50%;
+  background:white url('http://ellmoo.googlecode.com/svn/trunk/Demo/widget-recent-posts-dengan-efek-preloader/nivo-loading.gif') no-repeat 50% 50%;
   border:4px solid #FB8F3D;
 }
 
