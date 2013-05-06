@@ -1,0 +1,107 @@
+﻿body {
+	background: #CAD8C9 url(http://i32.tinypic.com/a0ccxl.jpg)repeat-x top left fixed;
+	margin: auto;
+	padding: 0px;
+font: x-small Verdana, Arial;
+	text-align: center;
+color: #333333;
+	font-size/* */:/**/small;
+	font-size: /**/small;
+}
+
+
+a, a:visited {
+	color: #478C0D;
+	text-decoration: none;
+	}
+	
+a:hover {
+	color: #cc0000;
+	text-decoration: underline;
+	}
+	
+a img {
+	border: none;
+	}
+	
+a:focus, a:hover, a:active {
+	outline: none;
+	}
+	
+
+#outer-wrapper { 
+  margin-top:10px;
+  width: 600px;
+  border: solid 10px #C2CFDF;
+}
+
+/* Header
+-------------------------------------- */
+#header-wrapper {
+  margin:0;
+  padding: 5px;
+  text-align: left;
+}
+
+#header {
+margin: 0;
+height: 80px;
+background: #006600 /*url(http://home.kpn.nl/oosti468/images/bblogosmall.png) top center no-repeat*/;
+  border: 1px solid #006600;
+  color: #ffffff;
+  padding: 5px;
+}
+
+/*
+#header h1 { display:none }
+*/
+
+/*
+#header .description {
+  display:none;
+}
+                                                              
+*/
+/* Content
+------------------------------------------------- */
+
+
+#content-wrapper {
+  margin: 0;
+  padding: 10 20 10 20px;
+  text-align: left;
+  background-color: #E0EAE2;
+
+}
+
+
+/* Headings
+----------------------------------------------- */
+h2, h3, h4 {
+  color: #666666;
+  margin: 0;
+}
+
+
+
+/* Footer
+----------------------------------------------- */
+#footer {
+  clear: both;
+  text-align: center;
+  background: #2B6705;
+  color: #ffffff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 85%;
+}
+
+.fieldset {
+  width:540px;
+  padding:5 10 5 10;
+  color: #666666;
+}
+
+.legend {
+  color: #000000;
+}
