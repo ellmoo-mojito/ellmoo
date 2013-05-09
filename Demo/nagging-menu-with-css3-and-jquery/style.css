@@ -1,5 +1,5 @@
 body {
-    background: url(../img/bg.png) #efefef;
+    background: url('img/bg.png') #efefef;
     margin: 0;
     padding: 0;
     border: none;
