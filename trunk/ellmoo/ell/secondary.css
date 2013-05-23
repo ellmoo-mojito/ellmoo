@@ -1,0 +1,97 @@
+﻿/* Post Thumb
+----------------------------------------------- */
+.postthumb {
+    padding: 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.postthumb:hover {
+    background-color: #2fb5fb;
+}
+
+/* Under Posts
+----------------------------------------------- */
+.under-post-header {
+    margin: 10px -2px 0;
+    padding: 5px 0 5px 2px;
+    color: #666;
+/*background-color: #f9f9f9;
+border-bottom: 1px solid #eeeeee;*/
+    border-top: 0 dotted #8a172a;
+    line-height: 1.6;
+    font: normal normal 12px Alike,Cambria,Georgia,Serif;
+}
+
+.post-comment-link-2 {
+    float: right;
+    padding-right: 4px;
+}
+
+abbr.published {
+    border-width: 0;
+}
+
+.status-msg-wrap {
+    display: none;
+}
+
+/* Top Nav
+----------------------------------------------- */
+#top-nav {
+    background: #333;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+    height: 26px;
+    width: 100%;
+    min-width: 1000px;
+    opacity: 0.8;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    overflow: hidden;
+    border-bottom: 1px solid #000;
+}
+
+body #top-nav ul {
+    padding-left: 0;
+}
+
+#top-nav ul {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+#top-nav ul li {
+    float: left;
+}
+
+#top-nav ul li a {
+    line-height: 28px;
+    padding: 0 10px;
+    color: #ccc;
+    font-size: 12px;
+    font-family: Arial;
+    font-weight: 700;
+    text-shadow: 0 -1px 0 #000;
+    display: block;
+    text-decoration: none;
+}
+
+#top-nav ul li a:hover {
+    text-decoration: none;
+    color: #fff;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.3);
+}
+
+#top-nav ul,#top-nav li,#top-nav ul li {
+    list-style: none;
+}
+
+/* Menu Navigasi
+----------------------------------------------- */
+#nav {
+    background-color: #228ed2;
+    color: #FFF;
+    font:
