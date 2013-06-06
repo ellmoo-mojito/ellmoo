@@ -1,3 +1,4 @@
+b
 /*
  * jQuery Nivo Slider v2.6
  * http://nivo.dev7studios.com
@@ -23,7 +24,7 @@
   position:relative;
   background:#fff url(http://1.bp.blogspot.com/-mCo2WqnCQb4/Ua5BuTE0hhI/AAAAAAAAAqQ/mZKYq6QNZvM/s1600/loading.gif) no-repeat 50% 50%;
   width:618px; /* Make sure your images are the same size */
-  height:246px; /* Make sure your images are the same size */
+  height:296px; /* Make sure your images are the same size */
 }
 
 .nivoSlider img {
