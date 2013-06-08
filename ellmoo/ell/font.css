@@ -1,0 +1,12 @@
+@font-face {
+	font-family:'Alike';
+	src:url(http://themes.googleusercontent.com/static/fonts/alike/v4/0wlTTJEXU4hQ4azwPn6Wjw.woff) format('woff');
+	font-weight:normal;
+	font-style:normal;
+}
+@font-face {
+  font-family: 'Berkshire Swash';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Berkshire Swash'), local('BerkshireSwash-Regular'), url(http://themes.googleusercontent.com/static/fonts/berkshireswash/v1/4RZJjVRPjYnC2939hKCAio7PDNlca4RILyZXFX2_UPk.woff) format('woff');
+}
